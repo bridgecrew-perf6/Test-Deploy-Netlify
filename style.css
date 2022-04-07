@@ -6,7 +6,7 @@
 
 .container{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding: 5px;
     margin: 5px;
     border: black;
@@ -26,11 +26,5 @@
 }
 
 .mTag{
-    flex: 1;
-}
-
-.nTAG{
-    background-color: aquamarine;
-    color: chocolate;
     flex: 1;
 }
