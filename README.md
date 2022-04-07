@@ -3,7 +3,8 @@
 A simple projrect to test netlify and also deploy a simple static site.
 
 ## Url
-jattanjie21-test-deploy.netlify.app
+[Url](jattanjie21-test-deploy.netlify.app)
 
 ## Template
-html5up.com
+This site was built by [HTML5UP](https://html5up.com/).
+
