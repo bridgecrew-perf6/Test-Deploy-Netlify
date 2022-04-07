@@ -1,4 +1,4 @@
-#T est-Deploy-Netlify
+# Test-Deploy-Netlify
 
 A simple projrect to test netlify and also deploy a simple static site.
 
